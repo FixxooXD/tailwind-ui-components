@@ -27,46 +27,46 @@ Now guess what :innocent: we just aim to eliminate that time to build each and e
 
 ## Components
 
-_Revision: 0_
+_Revision: 1_
 
 | Name            | HTML | JSX |
 | :-------------- | :--- | :-- |
-| Article         | [ ]  | [ ] |
-| Avatar          | [ ]  | [ ] |
-| Banner          | [ ]  | [ ] |
-| Breadcrumb      | [ ]  | [ ] |
-| Button          | [ ]  | [ ] |
-| Call to action  | [ ]  | [ ] |
-| Card            | [ ]  | [ ] |
-| Carousel        | [ ]  | [ ] |
-| Contact         | [ ]  | [ ] |
-| Error           | [ ]  | [ ] |
-| Faq             | [ ]  | [ ] |
-| Feature         | [ ]  | [ ] |
-| Footer          | [ ]  | [ ] |
-| Form            | [ ]  | [ ] |
-| Gallery         | [ ]  | [ ] |
-| Header          | [ ]  | [ ] |
-| Hero            | [ ]  | [ ] |
-| Input           | [ ]  | [ ] |
-| Loading         | [ ]  | [ ] |
-| Login           | [ ]  | [ ] |
-| Modal           | [ ]  | [ ] |
-| Pricing         | [ ]  | [ ] |
-| Profile         | [ ]  | [ ] |
-| Review          | [ ]  | [ ] |
-| Sidebar         | [ ]  | [ ] |
-| Skeleton loader | [ ]  | [ ] |
-| Slider          | [ ]  | [ ] |
-| Snackbar        | [ ]  | [ ] |
-| Stats           | [ ]  | [ ] |
-| Steps           | [ ]  | [ ] |
-| Table           | [ ]  | [ ] |
-| Tabs            | [ ]  | [ ] |
-| Team            | [ ]  | [ ] |
-| Testimonial     | [ ]  | [ ] |
-| Timeline        | [ ]  | [ ] |
-| Toggle          | [ ]  | [ ] |
+| Article         |      |     |
+| Avatar          |      |     |
+| Banner          |      |     |
+| Breadcrumb      |      |     |
+| Button          |      |     |
+| Call to action  |      |     |
+| Card            |      |     |
+| Carousel        |      |     |
+| Contact         |      |     |
+| Error           |      |     |
+| Faq             |      |     |
+| Feature         |      |     |
+| Footer          |      |     |
+| Form            |      |     |
+| Gallery         |      |     |
+| Header          |      |     |
+| Hero            |      |     |
+| Input           |      |     |
+| Loading         |      |     |
+| Login           |      |     |
+| Modal           |      |     |
+| Pricing         |      |     |
+| Profile         |      |     |
+| Review          |      |     |
+| Sidebar         |      |     |
+| Skeleton loader |      |     |
+| Slider          |      |     |
+| Snackbar        |      |     |
+| Stats           |      |     |
+| Steps           |      |     |
+| Table           |      |     |
+| Tabs            |      |     |
+| Team            |      |     |
+| Testimonial     |      |     |
+| Timeline        |      |     |
+| Toggle          |      |     |
 
 ## Credits
 
