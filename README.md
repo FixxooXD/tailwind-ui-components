@@ -45,28 +45,28 @@ _Revision: 1_
 |   13  | Feature         |      |     |
 |   14  | Footer          |      |     |
 |   15  | Form            |      |     |
-|   20  | Gallery         |      |     |
-|   21  | Header          |      |     |
-|   22  | Hero            |      |     |
-|   24  | Input           |      |     |
-|   25  | Loading         |      |     |
-|   26  | Login           |      |     |
-|   27  | Modal           |      |     |
-|   28  | Pricing         |      |     |
-|   29  | Profile         |      |     |
-|   30  | Review          |      |     |
-|   31  | Sidebar         |      |     |
-|   32  | Skeleton loader |      |     |
-|   34  | Slider          |      |     |
-|   35  | Snackbar        |      |     |
-|   36  | Stats           |      |     |
-|   37  | Steps           |      |     |
-|   38  | Table           |      |     |
-|   39  | Tabs            |      |     |
-|   40  | Team            |      |     |
-|   41  | Testimonial     |      |     |
-|   42  | Timeline        |      |     |
-|   43  | Toggle          |      |     |
+|   16  | Gallery         |      |     |
+|   17  | Header          |      |     |
+|   18  | Hero            |      |     |
+|   19  | Input           |      |     |
+|   20  | Loading         |      |     |
+|   21  | Login           |      |     |
+|   22  | Modal           |      |     |
+|   23  | Pricing         |      |     |
+|   24  | Profile         |      |     |
+|   25  | Review          |      |     |
+|   26  | Sidebar         |      |     |
+|   27  | Skeleton loader |      |     |
+|   28  | Slider          |      |     |
+|   29  | Snackbar        |      |     |
+|   30  | Stats           |      |     |
+|   31  | Steps           |      |     |
+|   32  | Table           |      |     |
+|   33  | Tabs            |      |     |
+|   34  | Team            |      |     |
+|   35  | Testimonial     |      |     |
+|   36  | Timeline        |      |     |
+|   37  | Toggle          |      |     |
 
 ## Credits
 
