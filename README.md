@@ -11,7 +11,7 @@ Tailwind UI Components are ready made tailwind css boilerplates that can be used
 
 Imagine you are starting a new project from scratch and you need a button and some variants (primary, secondary, disabled, hovered state) for that button. Now you can do that yourself using tailwind but it will take some time, isn't it ?
 
-Now guess what :innocent: we just aim to eliminate that time to build each and evety components from scratch. We are trying to build some handy components with theming in mind, so that you can just copy paste the boilerplate and get the job done in seconds!
+Now guess what :innocent: we just aim to eliminate that time to build each and every components from scratch. We are trying to build some handy components with theming in mind, so that you can just copy paste the boilerplate and get the job done in seconds!
 
 ## How to use ?
 
