@@ -29,44 +29,44 @@ Now guess what :innocent: we just aim to eliminate that time to build each and e
 
 _Revision: 1_
 
-| Name            | HTML | JSX |
-| :-------------- | :--- | :-- |
-| Article         |      |     |
-| Avatar          |      |     |
-| Banner          |      |     |
-| Breadcrumb      |      |     |
-| Button          |      |     |
-| Call to action  |      |     |
-| Card            |      |     |
-| Carousel        |      |     |
-| Contact         |      |     |
-| Error           |      |     |
-| Faq             |      |     |
-| Feature         |      |     |
-| Footer          |      |     |
-| Form            |      |     |
-| Gallery         |      |     |
-| Header          |      |     |
-| Hero            |      |     |
-| Input           |      |     |
-| Loading         |      |     |
-| Login           |      |     |
-| Modal           |      |     |
-| Pricing         |      |     |
-| Profile         |      |     |
-| Review          |      |     |
-| Sidebar         |      |     |
-| Skeleton loader |      |     |
-| Slider          |      |     |
-| Snackbar        |      |     |
-| Stats           |      |     |
-| Steps           |      |     |
-| Table           |      |     |
-| Tabs            |      |     |
-| Team            |      |     |
-| Testimonial     |      |     |
-| Timeline        |      |     |
-| Toggle          |      |     |
+| s.no. | Name            | HTML | JSX |
+| :---  | :-------------- | :--- | :-- |
+|   1   | Article         |      |     |
+|   2   | Avatar          |      |     |
+|   3   | Banner          |      |     |
+|   4   | Breadcrumb      |      |     |
+|   5   | Button          |      |     |
+|   6   | Call to action  |      |     |
+|   7   | Card            |      |     |
+|   8   | Carousel        |      |     |
+|   9   | Contact         |      |     |
+|   10  | Error           |      |     |
+|   12  | Faq             |      |     |
+|   13  | Feature         |      |     |
+|   14  | Footer          |      |     |
+|   15  | Form            |      |     |
+|   20  | Gallery         |      |     |
+|   21  | Header          |      |     |
+|   22  | Hero            |      |     |
+|   24  | Input           |      |     |
+|   25  | Loading         |      |     |
+|   26  | Login           |      |     |
+|   27  | Modal           |      |     |
+|   28  | Pricing         |      |     |
+|   29  | Profile         |      |     |
+|   30  | Review          |      |     |
+|   31  | Sidebar         |      |     |
+|   32  | Skeleton loader |      |     |
+|   34  | Slider          |      |     |
+|   35  | Snackbar        |      |     |
+|   36  | Stats           |      |     |
+|   37  | Steps           |      |     |
+|   38  | Table           |      |     |
+|   39  | Tabs            |      |     |
+|   40  | Team            |      |     |
+|   41  | Testimonial     |      |     |
+|   42  | Timeline        |      |     |
+|   43  | Toggle          |      |     |
 
 ## Credits
 
