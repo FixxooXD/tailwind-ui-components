@@ -31,15 +31,15 @@ _Revision: 1_
 
 | s.no. | Name            | HTML | JSX |
 | :---  | :-------------- | :--- | :-- |
-|   1   | Article         |      |     |
-|   2   | Avatar          |      |     |
-|   3   | Banner          |      |     |
-|   4   | Breadcrumb      |      |     |
-|   5   | Button          |      |     |
-|   6   | Call to action  |      |     |
-|   7   | Card            |      |     |
-|   8   | Carousel        |      |     |
-|   9   | Contact         |      |     |
+|    1  | Article         |      |     |
+|    2  | Avatar          |      |     |
+|    3  | Banner          |      |     |
+|    4  | Breadcrumb      |      |     |
+|    5  | Button          |      |     |
+|    6  | Call to action  |      |     |
+|    7  | Card            |      |     |
+|    8  | Carousel        |      |     |
+|    9  | Contact         |      |     |
 |   10  | Error           |      |     |
 |   12  | Faq             |      |     |
 |   13  | Feature         |      |     |
