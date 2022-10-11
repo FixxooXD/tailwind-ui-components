@@ -27,46 +27,46 @@ Now guess what :innocent: we just aim to eliminate that time to build each and e
 
 ## Components
 
-_Revision: 1_
+_Revision: 2_
 
-| s.no. | Name            | HTML | JSX |
-| :---  | :-------------- | :--- | :-- |
-|    1  | Article         |      |     |
-|    2  | Avatar          |      |     |
-|    3  | Banner          |      |     |
-|    4  | Breadcrumb      |      |     |
-|    5  | Button          |      |     |
-|    6  | Call to action  |      |     |
-|    7  | Card            |      |     |
-|    8  | Carousel        |      |     |
-|    9  | Contact         |      |     |
-|   10  | Error           |      |     |
-|   12  | Faq             |      |     |
-|   13  | Feature         |      |     |
-|   14  | Footer          |      |     |
-|   15  | Form            |      |     |
-|   16  | Gallery         |      |     |
-|   17  | Header          |      |     |
-|   18  | Hero            |      |     |
-|   19  | Input           |      |     |
-|   20  | Loading         |      |     |
-|   21  | Login           |      |     |
-|   22  | Modal           |      |     |
-|   23  | Pricing         |      |     |
-|   24  | Profile         |      |     |
-|   25  | Review          |      |     |
-|   26  | Sidebar         |      |     |
-|   27  | Skeleton loader |      |     |
-|   28  | Slider          |      |     |
-|   29  | Snackbar        |      |     |
-|   30  | Stats           |      |     |
-|   31  | Steps           |      |     |
-|   32  | Table           |      |     |
-|   33  | Tabs            |      |     |
-|   34  | Team            |      |     |
-|   35  | Testimonial     |      |     |
-|   36  | Timeline        |      |     |
-|   37  | Toggle          |      |     |
+| S.No. | Name            | HTML | JSX  |
+| :---- | :-------------- | :--- | :--- |
+| 1     | Article         |      |      |
+| 2     | Avatar          |      |      |
+| 3     | Banner          |      |      |
+| 4     | Breadcrumb      |      |      |
+| 5     | Button          |      |      |
+| 6     | Call to action  |      |      |
+| 7     | Card            |      |      |
+| 8     | Carousel        |      |      |
+| 9     | Contact         |      |      |
+| 10    | Error           |      |      |
+| 12    | Faq             |      |      |
+| 13    | Feature         |      |      |
+| 14    | Footer          |      |      |
+| 15    | Form            |      |      |
+| 16    | Gallery         |      |      |
+| 17    | Header          |      |      |
+| 18    | Hero            |      |      |
+| 19    | Input           |      |      |
+| 20    | Loading         |      |      |
+| 21    | Login           |      |      |
+| 22    | Modal           |      |      |
+| 23    | Pricing         |      |      |
+| 24    | Profile         |      |      |
+| 25    | Review          |      |      |
+| 26    | Sidebar         |      |      |
+| 27    | Skeleton loader |      |      |
+| 28    | Slider          |      |      |
+| 29    | Snackbar        |      |      |
+| 30    | Stats           |      |      |
+| 31    | Steps           |      |      |
+| 32    | Table           |      |      |
+| 33    | Tabs            |      |      |
+| 34    | Team            |      |      |
+| 35    | Testimonial     |      |      |
+| 36    | Timeline        |      |      |
+| 37    | Toggle          |      |      |
 
 ## Credits
 
